@@ -3,8 +3,9 @@
 <!--
 **GuillemPejo/GuillemPejo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-
+ <a href="https://guillempejo.github.io/">
 <img src="https://github.com/GuillemPejo/guillempejo.github.io/blob/master/img/cover.svg" alt="drawing" width="500"/>
+</a>
 
 
 - 🌱 I'm currently learning about Android architectural pattern, Kotlin & Jetpack, & Flutter
