@@ -8,7 +8,7 @@
 </a>
 
 
-- 🌱 I'm currently learning about Android architectural pattern, Kotlin & Jetpack, & Flutter
+- 🌱 I'm currently learning about Jetpack Compose, Corutines & Flutter
 - 📫 Can reach me sending a mail on guillempejo@gmail.com
 - ⚡ Fun fact: I'm passionate about climbing and nature
 
