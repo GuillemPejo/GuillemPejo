@@ -8,7 +8,7 @@
 </a>
 
 
-- 🌱 I'm currently learning about Jetpack Compose, Corutines & Flutter
+- 🌱 I'm currently learning about Jetpack Compose
 - 📫 Can reach me sending a mail on guillempejo@gmail.com
 - ⚡ Fun fact: I'm passionate about climbing and nature
 
