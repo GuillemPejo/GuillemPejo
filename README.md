@@ -10,7 +10,7 @@
 
 <div align="center">
 
-🛠   I’m actually working on Napptilus Tech Labs as Android Developer </br>
+🛠   I’m currently working on Napptilus Tech Labs as Android Developer on ZARA project</br>
 
 🚀   I'm currently learning about Kotlin Multiplatform </br>
 
