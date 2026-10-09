@@ -1,42 +1,30 @@
-# 
-<div align="center">
-<h1 align="center">Hi, I'm  <a href="https://www.linkedin.com/in/guillempejo/">Guillem</a> 🤘</h1>
-  <a href="https://guillempejo.github.io/"> <img src="https://github.com/GuillemPejo/guillempejo.github.io/blob/master/img/cover.svg" width="500"/></a>
-</div>
+# Hi, I'm Guillem
 
-<!--
-**GuillemPejo/GuillemPejo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+I make **Android and iOS apps with Kotlin Multiplatform**, from the first sketch to the store listing: native UI on each platform (Jetpack Compose and SwiftUI) over a shared Kotlin core. I also build **websites, SaaS products and AI tools**.
 
-<div align="center">
+**12 apps** live on Google Play, two of them also on the App Store.
 
-🛠   I’m currently working on Napptilus Tech Labs as Android Developer on ZARA project</br>
+<a href="https://play.google.com/store/apps/details?id=com.tacoly.visatrip"><img src="https://guillempejo.github.io/img/apps/visatrip.png" width="64" alt="VisaTrip"></a>
+<a href="https://play.google.com/store/apps/details?id=com.tacoly.ferrata"><img src="https://guillempejo.github.io/img/apps/ferrata.png" width="64" alt="Ferrata"></a>
+<a href="https://play.google.com/store/apps/details?id=com.tacoly.paellator"><img src="https://guillempejo.github.io/img/apps/paellator.png" width="64" alt="Paellator"></a>
+<a href="https://play.google.com/store/apps/details?id=com.tacoly.axolo"><img src="https://guillempejo.github.io/img/apps/axolo.png" width="64" alt="Axolo"></a>
+<a href="https://play.google.com/store/apps/details?id=com.tacoly.refrescat"><img src="https://guillempejo.github.io/img/apps/refrescate.png" width="64" alt="Refréscate"></a>
+<a href="https://play.google.com/store/apps/details?id=com.tacoly.decamping"><img src="https://guillempejo.github.io/img/apps/decamping.png" width="64" alt="Decamping"></a>
+<a href="https://play.google.com/store/apps/dev?id=5014608691159905150"><img src="https://guillempejo.github.io/img/apps/parques-cl.png" width="64" alt="Parques (6 apps)"></a>
 
-🚀   I'm currently learning about Kotlin Multiplatform </br>
+| App | What it does | Platforms |
+|---|---|---|
+| **VisaTrip** | Visa requirements for every passport, passport ranking, Schengen rules and a map of your trips. 17 languages. | [Google Play](https://play.google.com/store/apps/details?id=com.tacoly.visatrip) · [App Store](https://apps.apple.com/app/id6815483578) |
+| **Ferrata** | 500+ via ferratas on a map, with grade, photos, weather and offline route cards. | [Google Play](https://play.google.com/store/apps/details?id=com.tacoly.ferrata) · iOS soon |
+| **Paellator** | Paella and rice recipes with an ingredient calculator that adjusts the liquid to your pan and altitude. | [Google Play](https://play.google.com/store/apps/details?id=com.tacoly.paellator) · [App Store](https://apps.apple.com/app/id6815477047) |
+| **Axolo** | One verified fun fact a day, with streaks, widget, album and achievements. | [Google Play](https://play.google.com/store/apps/details?id=com.tacoly.axolo) · iOS soon |
+| **Parques** | Guides to the national parks of six South American countries (6 apps). | [Google Play](https://play.google.com/store/apps/dev?id=5014608691159905150) |
 
-📫   Can reach me sending a mail on guillempejo@gmail.com </br>
+**Beyond apps**
+- **Websites**: custom WordPress themes, static sites and page generators that publish through the API.
+- **SaaS and backends**: PocketBase servers, admin panels with Telegram approvals, subscriptions with RevenueCat.
+- **AI tools**: pipelines that write, fact-check and translate content, on-device image recognition, store screenshots in 17 languages.
 
-👨🏻‍💻   Most of my projects are available on Github </br>
+**What I work with**: Kotlin, Kotlin Multiplatform, Jetpack Compose, SwiftUI, Koin, SQLDelight, Room, Firebase · Python, Flask, PocketBase, WordPress · LLM pipelines and agents · Gradle, Xcode, Play and App Store Connect APIs, Maestro.
 
-💬   Ask me about anything here! I am happy to help </br>
-
-🌱   I'm passionate about climbing and nature </br>
- 
- </br>
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=GuillemPejo&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-
-</br>
-</br>
-
-
-[![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)]()
-[![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)]()
-[![RESTful APIs](https://img.shields.io/badge/RESTful_APIs-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
-[![Android SDK](https://img.shields.io/badge/Android_SDK-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=101010)]()
-[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white&labelColor=101010)]()
-[![Python](https://img.shields.io/badge/Python-CC0000?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
-[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
-
-</br>
-</div>
-
+[guillempejo.github.io](https://guillempejo.github.io) · [LinkedIn](https://www.linkedin.com/in/guillempejo/) · [X](https://x.com/GuillemPejo) · guillempejo@gmail.com
