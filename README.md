@@ -8,6 +8,8 @@ I make **Android and iOS apps with Kotlin Multiplatform**, from the first sketch
 <a href="https://play.google.com/store/apps/details?id=com.tacoly.ferrata"><img src="https://guillempejo.github.io/img/apps/ferrata.png" width="64" alt="Ferrata"></a>
 <a href="https://play.google.com/store/apps/details?id=com.tacoly.paellator"><img src="https://guillempejo.github.io/img/apps/paellator.png" width="64" alt="Paellator"></a>
 <a href="https://play.google.com/store/apps/details?id=com.tacoly.axolo"><img src="https://guillempejo.github.io/img/apps/axolo.png" width="64" alt="Axolo"></a>
+<a href="https://play.google.com/store/apps/details?id=com.tacoly.andana"><img src="https://guillempejo.github.io/img/apps/andana.png" width="64" alt="Andana"></a>
+<a href="https://play.google.com/store/apps/details?id=com.tacoly.routelapse"><img src="https://guillempejo.github.io/img/apps/routelapse.png" width="64" alt="Routelapse"></a>
 <a href="https://play.google.com/store/apps/details?id=com.tacoly.refrescat"><img src="https://guillempejo.github.io/img/apps/refrescate.png" width="64" alt="Refréscate"></a>
 <a href="https://play.google.com/store/apps/details?id=com.tacoly.decamping"><img src="https://guillempejo.github.io/img/apps/decamping.png" width="64" alt="Decamping"></a>
 <a href="https://play.google.com/store/apps/dev?id=5014608691159905150"><img src="https://guillempejo.github.io/img/apps/parques-cl.png" width="64" alt="Parques (6 apps)"></a>
@@ -18,6 +20,8 @@ I make **Android and iOS apps with Kotlin Multiplatform**, from the first sketch
 | **Ferrata** | 500+ via ferratas on a map, with grade, photos, weather and offline route cards. | [Google Play](https://play.google.com/store/apps/details?id=com.tacoly.ferrata) · [App Store](https://apps.apple.com/app/id6815478407) |
 | **Paellator** | Paella and rice recipes with an ingredient calculator that adjusts the liquid to your pan and altitude. | [Google Play](https://play.google.com/store/apps/details?id=com.tacoly.paellator) · [App Store](https://apps.apple.com/app/id6815477047) |
 | **Axolo** | One verified fun fact a day, with streaks, widget, album and achievements. | [Google Play](https://play.google.com/store/apps/details?id=com.tacoly.axolo) · iOS soon |
+| **Andana** | Barcelona's metro, FGC, Rodalies and tram live on a 3D map, with a door-to-door planner and step-free routes. 6 languages. | [Google Play](https://play.google.com/store/apps/details?id=com.tacoly.andana) · [App Store](https://apps.apple.com/app/id6826016254) · *coming soon* |
+| **Routelapse** | Turns a trip into an animated map video for stories, feed or YouTube, with 9 map styles. 15 languages. | [Google Play](https://play.google.com/store/apps/details?id=com.tacoly.routelapse) · [App Store](https://apps.apple.com/app/id6826004590) · *coming soon* |
 | **Parques** | Guides to the national parks of six South American countries (6 apps). | [Google Play](https://play.google.com/store/apps/dev?id=5014608691159905150) |
 
 **Beyond apps**
