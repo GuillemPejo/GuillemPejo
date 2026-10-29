@@ -1,8 +1,8 @@
 # Hi, I'm Guillem
 
-I build **digital products end to end**: Android and iOS apps with **Kotlin Multiplatform** (native UI on each platform, Jetpack Compose and SwiftUI, over a shared Kotlin core), **web products and SaaS backends**, and **AI tools and integrations** that do real work — from the first sketch to the store listing, or to production.
+I build **digital products end to end**: mobile apps, web products, and AI tools and integrations. From the first sketch to the store listing, or to production.
 
-**15 apps** live on Google Play, three of them also on the App Store, plus the web products and AI pipelines behind them.
+**15 apps** live on Google Play, three of them also on the App Store.
 
 <a href="https://play.google.com/store/apps/details?id=com.tacoly.visatrip"><img src="https://guillempejo.github.io/img/apps/visatrip.png" width="64" alt="VisaTrip"></a>
 <a href="https://play.google.com/store/apps/details?id=com.tacoly.ferrata"><img src="https://guillempejo.github.io/img/apps/ferrata.png" width="64" alt="Ferrata"></a>
