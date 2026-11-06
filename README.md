@@ -2,7 +2,7 @@
 
 I build **digital products end to end**: mobile apps, web products, and AI tools and integrations. From the first sketch to the store listing, or to production.
 
-**15 apps** live on Google Play, three of them also on the App Store.
+**16 apps** live on Google Play, three of them also on the App Store.
 
 <a href="https://play.google.com/store/apps/details?id=com.tacoly.visatrip&utm_source=github&utm_medium=perfil&utm_campaign=readme"><img src="https://guillempejo.github.io/img/apps/visatrip.png" width="64" alt="VisaTrip"></a>
 <a href="https://play.google.com/store/apps/details?id=com.tacoly.ferrata&utm_source=github&utm_medium=perfil&utm_campaign=readme"><img src="https://guillempejo.github.io/img/apps/ferrata.png" width="64" alt="Ferrata"></a>
@@ -11,6 +11,7 @@ I build **digital products end to end**: mobile apps, web products, and AI tools
 <a href="https://play.google.com/store/apps/details?id=com.tacoly.routelapse&utm_source=github&utm_medium=perfil&utm_campaign=readme"><img src="https://guillempejo.github.io/img/apps/routelapse.png" width="64" alt="Routelapse"></a>
 <a href="https://play.google.com/store/apps/details?id=com.tacoly.overlandkit&utm_source=github&utm_medium=perfil&utm_campaign=readme"><img src="https://guillempejo.github.io/img/apps/overlandkit.png" width="64" alt="OverlandKit"></a>
 <a href="https://play.google.com/store/apps/details?id=com.tacoly.globedrop&utm_source=github&utm_medium=perfil&utm_campaign=readme"><img src="https://guillempejo.github.io/img/apps/globedrop.png" width="64" alt="GlobeDrop"></a>
+<a href="https://play.google.com/store/apps/details?id=com.tacoly.andana&utm_source=github&utm_medium=perfil&utm_campaign=readme"><img src="https://guillempejo.github.io/img/apps/andana.png" width="64" alt="Andana"></a>
 <a href="https://play.google.com/store/apps/details?id=com.tacoly.refrescat&utm_source=github&utm_medium=perfil&utm_campaign=readme"><img src="https://guillempejo.github.io/img/apps/refrescate.png" width="64" alt="Refréscate"></a>
 <a href="https://play.google.com/store/apps/details?id=com.tacoly.decamping&utm_source=github&utm_medium=perfil&utm_campaign=readme"><img src="https://guillempejo.github.io/img/apps/decamping.png" width="64" alt="Decamping"></a>
 <a href="https://play.google.com/store/apps/dev?id=5014608691159905150&utm_source=github&utm_medium=perfil&utm_campaign=readme"><img src="https://guillempejo.github.io/img/apps/parques-cl.png" width="64" alt="Parques (6 apps)"></a>
@@ -27,7 +28,7 @@ I build **digital products end to end**: mobile apps, web products, and AI tools
 | **Refréscate** | 595 natural pools, rivers and waterfalls across Spain, sorted by how close they are to you. | [Google Play](https://play.google.com/store/apps/details?id=com.tacoly.refrescat&utm_source=github&utm_medium=perfil&utm_campaign=readme) |
 | **Decamping** | Campsites in Catalonia: map, filters, photos and favourites that open offline. | [Google Play](https://play.google.com/store/apps/details?id=com.tacoly.decamping&utm_source=github&utm_medium=perfil&utm_campaign=readme) |
 | **Parques** | Guides to the national parks of six South American countries (6 apps). | [Google Play](https://play.google.com/store/apps/dev?id=5014608691159905150&utm_source=github&utm_medium=perfil&utm_campaign=readme) |
-| **Andana** | Barcelona's metro, FGC, Rodalies and tram live on a 3D map, with a door-to-door planner and step-free routes. 6 languages. | *coming soon* |
+| **Andana** | Barcelona's metro, FGC, Rodalies and tram live on a 3D map, with a door-to-door planner and step-free routes. 6 languages. | [Google Play](https://play.google.com/store/apps/details?id=com.tacoly.andana&utm_source=github&utm_medium=perfil&utm_campaign=readme) · iOS soon |
 
 **Beyond the stores**
 - **Web products**: custom WordPress themes, static sites, internal panels and page generators that publish straight through the API.
